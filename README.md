@@ -1,2 +1,2 @@
-# SoftUni_OOP_CS
-Softuni OOp Course
+# SoftUni OOP CS
+Softuni OOP Course
